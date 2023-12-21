@@ -1,0 +1,74 @@
+
+h1{
+    margin:  30px;
+    padding: 10px;
+    text-align: center;
+}
+
+.cal{
+    
+    width: 335px;
+    height: 400px;
+    padding: 2%;
+    margin: auto;
+    background-color: black;
+    text-align: center;
+    
+
+}
+   
+button.maths {
+    width: 53px;
+    height: 53px;
+   
+    border-radius: 35px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    margin: 2px;
+    background-color: #ffbe0b;
+    color: azure;
+  
+}
+button.operator {
+    width: 53px;
+    height: 53px;
+ 
+    border-radius: 35px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin: 2px;
+    background-color: #dad7cd;
+  
+}
+button.keys {
+    width: 53px;
+    height: 53px;
+  
+    border-radius: 35px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin: 2px;
+    background-color: grey;
+    color: white;
+    
+  
+}
+
+.result{
+    height: 35px;
+    margin: 5%;
+    text-align: right;
+    width: 90%;
+    padding: 5px;
+    background-color: black;
+    border-color: black;
+    color: azure;
+
+}
+
+button.active{
+    background-color: aliceblue;
+}
